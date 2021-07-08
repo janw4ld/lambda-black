@@ -1,27 +1,32 @@
 {
-    "name": "groovylambda",
-    "displayName": "Groovy Lambda",
-    "description": "Color theme optimised for Haskell, based on Gruvbox Material.",
-    "publisher": "sheaf",
-    "version": "0.1.0",
-    "homepage": "https://github.com/sheaf/groovy-lambda",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/sheaf/groovy-lambda.git"
-      },
-    "engines": {
-        "vscode": "^1.40.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Groovy Lambda",
-                "uiTheme": "vs-dark",
-                "path": "./themes/GroovyLambda-color-theme.json"
-            }
-        ]
-    }
+	"name": "groovylambdahighcontrast",
+	"displayName": "Groovy Lambda High Contrast",
+	"description": "This is basically a mix of Groovy Lambda and Dark+ themes.",
+	"publisher": "opasql",
+	"version": "0.1.0",
+	"homepage": "https://github.com/opasql/groovy-lambda",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/opasql/groovy-lambda.git"
+	},
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Groovy Lambda High Contrast",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GroovyLambdaHighContrast-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "9c2a03bc-121d-4d6e-9faa-28565598e5af",
+		"publisherDisplayName": "opasql",
+		"publisherId": "bfa415ca-db41-41aa-a954-61ae9176946a"
+	}
 }
