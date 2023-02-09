@@ -33,14 +33,14 @@
     },
     "tokenColors": [
         // Basic source code color
-        {
-            "scope": [
-                "source",
-            ],
-            "settings": {
-                "foreground": "#FFFFFF",
-            },
-        },
+        // {
+        //     "scope": [
+        //         "source",
+        //     ],
+        //     "settings": {
+        //         "foreground": "#FFFFFF",
+        //     },
+        // },
         // Comments
         {
             "scope": [
