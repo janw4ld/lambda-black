@@ -14,6 +14,8 @@ Supports the TextMate scopes provided by the [__Language Haskell__](https://gith
   <img src="https://pomf2.lain.la/f/usnu44hk.png" alt="Black Lambda example highlighting" style="max-width:100%;">
 </p>
 
+<sup>The extra colors also improve C/C++ syntax highlighting.</sup>
+
 # Installation
 Install the theme from the [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=janw4ld.black-lambda).  
 Alternatively, you can clone this repo into your VS Code extensions directory (usually $HOME/.vscode/extensions/), then restart VS Code.

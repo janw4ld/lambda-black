@@ -2,8 +2,9 @@
 	"name": "black-lambda",
 	"displayName": "Black Lambda",
 	"description": "Default dark+ theme with support for Haskell syntax colors and a black background.",
+	"icon": "img/my-haskell.png",
 	"publisher": "janw4ld",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"homepage": "https://github.com/janw4ld/black-lambda",
 	"repository": {
 		"type": "git",
@@ -24,4 +25,4 @@
 			}
 		]
 	}
-}	
+}
