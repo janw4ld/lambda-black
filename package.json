@@ -1,13 +1,13 @@
 {
-	"name": "simple-black-lambda",
+	"name": "black-lambda",
 	"displayName": "Simple Black Lambda",
 	"description": "Groovy Lambda with black backgrounds.",
 	"publisher": "janw4ld",
 	"version": "0.0.1",
-	"homepage": "https://github.com/janw4ld/simple-black-lambda",
+	"homepage": "https://github.com/janw4ld/black-lambda",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/janw4ld/simple-black-lambda.git"
+		"url": "https://github.com/janw4ld/black-lambda.git"
 	},
 	"engines": {
 		"vscode": "^1.75.0"
@@ -20,8 +20,8 @@
 			{
 				"label": "Simple Black Lambda",
 				"uiTheme": "vs-dark",
-				"path": "./themes/simple-black-lambda.json"
+				"path": "./themes/dark_plus.json"
 			}
 		]
 	}
-}
+}	
