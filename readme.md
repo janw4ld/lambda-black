@@ -1,5 +1,5 @@
 # Black Lambda
-__Black Lambda__ is a VS Code color theme optimised for Haskell with a black background. It's based on [Groovy Lambda](https://marketplace.visualstudio.com/items?itemName=sheaf.groovylambda) but very ungrooved.
+__Black Lambda__ is a VS Code color theme optimised for Haskell with a black background. It's based on [Groovy Lambda](https://marketplace.visualstudio.com/items?itemName=sheaf.groovylambda) but is very ungrooved.
 
 Supports the TextMate scopes provided by the [__Language Haskell__](https://github.com/JustusAdam/language-haskell) VS Code extension:
 
@@ -11,11 +11,12 @@ Supports the TextMate scopes provided by the [__Language Haskell__](https://gith
   * underlines recognised GHC language extensions.
 
 <p align="center">
-  <img src="img/screenshot.png" alt="Black Lambda example highlighting" style="max-width:900px;">
+  <img src="https://pomf2.lain.la/f/usnu44hk.png" alt="Black Lambda example highlighting" style="max-width:900px;">
 </p>
 
 # Installation
-Clone this repository into your VS Code extensions directory (usually $HOME/.vscode/extensions/), then restart VS Code.
+Install the theme from the [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=janw4ld.black-lambda).  
+Alternatively, you can clone this repo into your VS Code extensions directory (usually $HOME/.vscode/extensions/), then restart VS Code.
 
 <!-- 
 # Installation

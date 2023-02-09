@@ -50,8 +50,7 @@
             ],
             "settings": {
                 "foreground": "#7E6B5F",
-                "fontStyle": "",
-            },
+                },
         },
         // Punctuation
         {
@@ -86,8 +85,7 @@
             ],
             "settings": {
                 "foreground": "#CCA143",
-                "fontStyle": "",
-            },
+                },
         },
         {
             "scope": [
@@ -158,8 +156,7 @@
             ],
             "settings": {
                 "foreground": "#B3DDF5",
-                "fontStyle": "",
-            },
+                },
         },
         {
             "scope": [
@@ -169,8 +166,7 @@
             ],
             "settings": {
                 "foreground": "#8BBBC2",
-                "fontStyle": "",
-            },
+                },
         },
         {
             "scope": [
@@ -179,8 +175,7 @@
             ],
             "settings": {
                 "foreground": "#9099A7",
-                "fontStyle": "",
-            },
+                },
         },
         {
             "scope": [
@@ -208,8 +203,7 @@
             ],
             "settings": {
                 "foreground": "#AA2A2A",
-                "fontStyle": "",
-            },
+                },
         },
         // Types
         {
@@ -296,8 +290,7 @@
                 "keyword.other.preprocessor.extension",
             ],
             "settings": {
-                "fontStyle": "",
-            },
+                },
         },
         {
             "scope": [
@@ -384,8 +377,7 @@
             ],
             "settings": {
                 "foreground": "#928374",
-                "fontStyle": "",
-            },
+                },
         },
         {
             "name": "Markdown link",
@@ -394,8 +386,7 @@
             ],
             "settings": {
                 "foreground": "#d3869b",
-                "fontStyle": "",
-            },
+                },
         },
         {
             "name": "Markdown link text",
@@ -423,8 +414,7 @@
             ],
             "settings": {
                 "foreground": "#928374",
-                "fontStyle": "",
-            },
+                },
         },
         {
             "name": "Markdown separator delimiter",
