@@ -11,19 +11,12 @@ Supports the TextMate scopes provided by the [__Language Haskell__](https://gith
   * underlines recognised GHC language extensions.
 
 <p align="center">
-  <img src="https://pomf2.lain.la/f/usnu44hk.png" alt="Black Lambda example highlighting" style="max-width:900px;">
+  <img src="https://pomf2.lain.la/f/usnu44hk.png" alt="Black Lambda example highlighting" style="max-width:100%;">
 </p>
 
 # Installation
 Install the theme from the [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=janw4ld.black-lambda).  
 Alternatively, you can clone this repo into your VS Code extensions directory (usually $HOME/.vscode/extensions/), then restart VS Code.
-
-<!-- 
-# Installation
-
-The theme can be installed directly from VS Code: search for `Groovy Lambda` in the extensions, and install.    
-See also its [VS Code marketplace page](https://marketplace.visualstudio.com/items?itemName=sheaf.groovylambda).
--->
 
 # Customisation
 To change how something is highlighted, proceed as follows:
