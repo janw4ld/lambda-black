@@ -1,21 +1,34 @@
 {
-	"name": "Groovy Lambda",
+	"$schema": "vscode://schemas/color-theme",
+	// "include": "./dark_plus.json",
+	// "name": "Simple Black Lambda",
 	"type": "dark",
-	// Editor colors: Gruvbox Material Dark
 	"colors": {
-		"editor.background": "#191919",
-		"sideBar.background": "#191919"
+		"activityBar.background": "#000000",
+		"activityBar.border": "#444444",
+		"sideBar.background": "#000000",
+		"sideBar.border": "#444444",
+		"menu.background": "#000000",
+		"tab.activeBackground": "#000000",
+		"tab.activeBorder": "#0076BF",
+		"tab.border": "#000000",
+		"tab.activeBorderTop": "#0076BF",
+		"tab.inactiveBackground": "#44444494",
+		"editor.background": "#000000",
+		"titleBar.activeBackground": "#000000",
+		"editorGroupHeader.tabsBackground": "#000000",
+		"statusBar.background": "#000000"
 	},
 	"tokenColors": [
 		// Basic source code color
-		/* 		{
+		{
 			"scope": [
 				"source",
 			],
 			"settings": {
-				"foreground": "#D4BFA0"
+				"foreground": "#FFFFFF"
 			}
-		}, */
+		},
 		// Comments
 		{
 			"scope": [
@@ -587,5 +600,5 @@
 		"stringLiteral": "#ce9178",
 		"customLiteral": "#DCDCAA",
 		"numberLiteral": "#b5cea8",
-	}
+	},
 }

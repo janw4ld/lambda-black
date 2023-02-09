@@ -1,16 +1,16 @@
 {
-	"name": "groovylambdahighcontrast",
-	"displayName": "Groovy Lambda High Contrast",
-	"description": "This is basically a mix of Groovy Lambda and Dark+ themes.",
-	"publisher": "opasql",
-	"version": "0.1.0",
-	"homepage": "https://github.com/opasql/groovy-lambda",
+	"name": "simple-black-lambda",
+	"displayName": "Simple Black Lambda",
+	"description": "Groovy Lambda with black backgrounds.",
+	"publisher": "janw4ld",
+	"version": "0.0.1",
+	"homepage": "https://github.com/janw4ld/simple-black-lambda",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/opasql/groovy-lambda.git"
+		"url": "https://github.com/janw4ld/simple-black-lambda.git"
 	},
 	"engines": {
-		"vscode": "^1.40.0"
+		"vscode": "^1.75.0"
 	},
 	"categories": [
 		"Themes"
@@ -18,15 +18,10 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Groovy Lambda High Contrast",
+				"label": "Simple Black Lambda",
 				"uiTheme": "vs-dark",
-				"path": "./themes/GroovyLambdaHighContrast-color-theme.json"
+				"path": "./themes/simple-black-lambda.json"
 			}
 		]
-	},
-	"__metadata": {
-		"id": "9c2a03bc-121d-4d6e-9faa-28565598e5af",
-		"publisherDisplayName": "opasql",
-		"publisherId": "bfa415ca-db41-41aa-a954-61ae9176946a"
 	}
 }

@@ -1,5 +1,5 @@
 # Changelog
 
-## [0.1.0 - July 15th, 2020]
+## [0.0.1 - Feb 9th, 2023]
 
 - Initial release.
