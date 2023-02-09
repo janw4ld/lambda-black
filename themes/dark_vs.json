@@ -283,12 +283,12 @@
                 "foreground": "#569cd6"
             }
         },
-        {
-            "scope": "keyword.operator",
-            "settings": {
-                "foreground": "#d4d4d4"
-            }
-        },
+        // {
+        //     "scope": "keyword.operator",
+        //     "settings": {
+        //         "foreground": "#d4d4d4"
+        //     }
+        // },
         {
             "scope": [
                 "keyword.operator.new",
