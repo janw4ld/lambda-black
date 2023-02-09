@@ -1,7 +1,7 @@
 {
 	"name": "black-lambda",
 	"displayName": "Black Lambda",
-	"description": "Groovy Lambda with black backgrounds.",
+	"description": "Default dark+ theme with support for Haskell syntax colors and a black background.",
 	"publisher": "janw4ld",
 	"version": "0.0.1",
 	"homepage": "https://github.com/janw4ld/black-lambda",
