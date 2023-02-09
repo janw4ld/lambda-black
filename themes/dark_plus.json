@@ -6,7 +6,6 @@
         {
             "name": "Function declarations",
             "scope": [
-                "entity.name.function",
                 "support.function",
                 "support.constant.handlebars"
             ],
@@ -19,7 +18,6 @@
             "scope": [
                 "meta.return-type",
                 "support.class",
-                "support.type",
                 "entity.name.type",
                 "entity.name.class",
                 "storage.type.numeric.go",
@@ -76,9 +74,7 @@
         {
             "name": "Variable and parameter name",
             "scope": [
-                "variable",
                 "meta.definition.variable.name",
-                "support.variable",
                 "entity.name.variable"
             ],
             "settings": {

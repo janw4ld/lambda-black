@@ -216,7 +216,6 @@
             "scope": [
                 "storage.type",
                 "support.type",
-                "entity.name.type",
                 "keyword.type",
             ],
             "settings": {
@@ -271,8 +270,6 @@
         // Functions
         {
             "scope": [
-                "entity.name.function",
-                "support.function",
                 "meta.function",
                 "meta.function-call",
                 "entity.name.function",
@@ -437,69 +434,6 @@
             "settings": {
                 "foreground": "#928374",
                 "fontStyle": "bold",
-            },
-        },
-        {
-            "name": "Markdown italic",
-            "scope": [
-                "markup.italic",
-            ],
-            "settings": {
-                "fontStyle": "italic",
-            },
-        },
-        {
-            "name": "Markdown bold",
-            "scope": [
-                "markup.bold",
-            ],
-            "settings": {
-                "fontStyle": "bold",
-            },
-        },
-        {
-            "name": "Markdown bold italic",
-            "scope": [
-                "markup.bold markup.italic, markup.italic markup.bold",
-            ],
-            "settings": {
-                "fontStyle": "italic bold",
-            },
-        },
-        {
-            "name": "Markdown code delimiter",
-            "scope": [
-                "punctuation.definition.markdown, punctuation.definition.raw.markdown",
-            ],
-            "settings": {
-                "foreground": "#d8a657",
-            },
-        },
-        {
-            "name": "Markdown code type",
-            "scope": [
-                "fenced_code.block.language",
-            ],
-            "settings": {
-                "foreground": "#d8a657",
-            },
-        },
-        {
-            "name": "Markdown code block",
-            "scope": [
-                "markup.fenced_code.block.markdown, markup.inline.raw.string.markdown",
-            ],
-            "settings": {
-                "foreground": "#a9b665",
-            },
-        },
-        {
-            "name": "Markdown list mark",
-            "scope": [
-                "punctuation.definition.list.begin.markdown",
-            ],
-            "settings": {
-                "foreground": "#ea6962",
             },
         },
         {
