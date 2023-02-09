@@ -1,7 +1,7 @@
 {
     "$schema": "vscode://schemas/color-theme",
     // "include": "./dark_plus.json",
-    // "name": "Simple Black Lambda",
+    // "name": "Lambda Black",
     "type": "dark",
     "colors": {
         "activityBar.background": "#000000",
