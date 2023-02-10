@@ -224,7 +224,7 @@
                 "meta.definition.variable",
             ],
             "settings": {
-                "foreground": "#82AED8",
+                "foreground": "#9cdcfe",
                 // "fontStyle": "italic",
             },
         },

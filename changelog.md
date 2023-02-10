@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.5 - Feb 10th, 2023]
+
+- Distinguished variables color from keywords more.
+
 ## [0.0.4 - Feb 9th, 2023]
 
 - Reduced the minimum required vscode version.
