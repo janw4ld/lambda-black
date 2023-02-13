@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.7 - Feb 13th, 2023]
+
+- Overridden punctuation and variable colors with VSCode defaults.
+  
 ## [0.0.6 - Feb 13th, 2023]
 
 - Distinguished function colors from custom defined types more.

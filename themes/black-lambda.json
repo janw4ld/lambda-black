@@ -53,17 +53,17 @@
                 },
         },
         // Punctuation
-        {
-            "scope": [
-                "punctuation",
-                "meta.brace",
-                "meta.delimiter",
-                "meta.bracket",
-            ],
-            "settings": {
-                "foreground": "#D4BE98",
-            },
-        },
+        // {
+        //     "scope": [
+        //         "punctuation",
+        //         "meta.brace",
+        //         "meta.delimiter",
+        //         "meta.bracket",
+        //     ],
+        //     "settings": {
+        //         "foreground": "#ce5626",
+        //     },
+        // },
         // Constants
         {
             "scope": [
@@ -217,17 +217,17 @@
             },
         },
         // Variables
-        {
-            "scope": [
-                "variable",
-                "support.variable",
-                "meta.definition.variable",
-            ],
-            "settings": {
-                "foreground": "#9cdcfe",
-                // "fontStyle": "italic",
-            },
-        },
+        // {
+        //     "scope": [
+        //         "variable",
+        //         "support.variable",
+        //         "meta.definition.variable",
+        //     ],
+        //     "settings": {
+        //         "foreground": "#91d1f3",
+        //         // "fontStyle": "italic",
+        //     },
+        // },
         // Namespacing
         {
             "scope": [
