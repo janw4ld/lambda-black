@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.6 - Feb 13th, 2023]
+
+- Distinguished function colors from custom defined types more.
+
 ## [0.0.5 - Feb 10th, 2023]
 
 - Distinguished variables color from keywords more.

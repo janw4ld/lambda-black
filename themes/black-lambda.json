@@ -264,14 +264,20 @@
         // Functions
         {
             "scope": [
-                "meta.function",
-                "meta.function-call",
-                "entity.name.function",
                 "meta.definition.method",
             ],
             "settings": {
-                "foreground": "#66a89d",
+                "foreground": "#96AE67",
             },
+        },
+        {
+            "scope": [
+                "meta.function-call",
+                "entity.name.function",
+            ],
+            "settings": {
+                "foreground": "#DCDCAA",
+            }
         },
         // Preprocessor
         {
