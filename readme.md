@@ -1,20 +1,25 @@
 # [Lambda Black](https://marketplace.visualstudio.com/items?itemName=janw4ld.lambda-black)
-__Lambda Black__ is a VS Code color theme optimised for Haskell with a black background. It's based on [Groovy Lambda](https://marketplace.visualstudio.com/items?itemName=sheaf.groovylambda) but is very ungrooved.
+__Lambda Black__ is a VS Code color theme optimised for Haskell with extra syntax colors for more language scopes. It's based on [Groovy Lambda](https://marketplace.visualstudio.com/items?itemName=sheaf.groovylambda) but is very ungrooved and doesn't break languages other than Haskell, but actually improves them.
 
-Supports the TextMate scopes provided by the [__Language Haskell__](https://github.com/JustusAdam/language-haskell) VS Code extension:
+## Color schemes
+Black:
+<p align="center">
+  <img src="https://pomf2.lain.la/f/nsdu417d.png" alt="Black color scheme" style="max-width:90%;">
+</p>
+Dark+:
+<p align="center">
+  <img src="https://pomf2.lain.la/f/lrn6c94.png" alt="Dark+ color scheme" style="max-width:90%;">
+</p>
 
-  * disambiguates between data constructors and types in data declarations,
-  * visually clear appearance of qualified names,
-  * distinguishes different uses of `@`: type application, record syntax or infix operator,
+## Features
+Lambda Black supports all TextMate scopes provided by the [__Language Haskell__](https://github.com/JustusAdam/language-haskell) VS Code extension, making it able to:
+
+  * disambiguate between data constructors and types in data declarations,
+  * distinguish qualified names from other identifiers,
+  * distinguish different uses of `@`: type application, record syntax or infix operator,
   * special highlighting for record fields,
   * highlights MagicHash and OverloadedLabels,
   * underlines recognised GHC language extensions.
-
-<p align="center">
-  <img src="https://pomf2.lain.la/f/usnu44hk.png" alt="Lambda Black example highlighting" style="max-width:90%;">
-</p>
-
-<sup>The extra colors also improve C/C++ syntax highlighting.</sup>
 
 # Installation
 Install the theme from the VS Code marketplace [here](https://marketplace.visualstudio.com/items?itemName=janw4ld.lambda-black).  

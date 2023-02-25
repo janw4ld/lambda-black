@@ -78,7 +78,7 @@
                 "entity.name.variable"
             ],
             "settings": {
-                "foreground": "#9CDCFE"
+                "foreground": "#d4d4d4"
             }
         },
         {
@@ -87,7 +87,7 @@
                 "meta.object-literal.key"
             ],
             "settings": {
-                "foreground": "#9CDCFE"
+                "foreground": "#d4d4d4"
             }
         },
         {
@@ -149,7 +149,7 @@
         {
             "scope": "constant.character",
             "settings": {
-                "foreground": "#569cd6"
+                "foreground": "#ce9178"
             }
         },
         {

@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.0 - Feb 23rd, 2023]
+
+- Added an extra color scheme based on Dark+ V2.
+
+## [0.1.0 - Feb 23rd, 2023]
+
+- A good bunch of color changes, JS probably doesn't suck anymore.
+
 ## [0.0.7 - Feb 13th, 2023]
 
 - Overridden punctuation and variable colors with VSCode defaults.

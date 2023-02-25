@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    // "include": "./dark_plus.json",
+    "include": "./dark_plus.json",
     // "name": "Lambda Black",
     "type": "dark",
     "colors": {
@@ -33,14 +33,20 @@
     },
     "tokenColors": [
         // Basic source code color
-        // {
-        //     "scope": [
-        //         "source",
-        //     ],
-        //     "settings": {
-        //         "foreground": "#FFFFFF",
-        //     },
-        // },
+        {
+            "scope": [
+                "source",
+            ],
+            "settings": {
+                "foreground": "#d4d4d4",
+            },
+        },
+        {
+            "scope": "variable.parameter",
+            "settings": {
+                "foreground": "#93ceee"
+            }
+        },
         // Comments
         {
             "scope": [
@@ -50,20 +56,20 @@
             ],
             "settings": {
                 "foreground": "#7E6B5F",
-                },
+            },
         },
         // Punctuation
-        // {
-        //     "scope": [
-        //         "punctuation",
-        //         "meta.brace",
-        //         "meta.delimiter",
-        //         "meta.bracket",
-        //     ],
-        //     "settings": {
-        //         "foreground": "#ce5626",
-        //     },
-        // },
+        {
+            "scope": [
+                "punctuation",
+                "meta.brace",
+                "meta.delimiter",
+                "meta.bracket",
+            ],
+            "settings": {
+                "foreground": "#DCDCAA",
+            },
+        },
         // Constants
         {
             "scope": [
@@ -85,15 +91,28 @@
             ],
             "settings": {
                 "foreground": "#CCA143",
-                },
+            },
         },
         {
             "scope": [
                 "constant.numeric",
-                "constant.language",
+                "keyword.operator.prefix.minus",
+            ],
+            "settings": {
+                "foreground": "#b5cea8",
+            },
+        },
+        {
+            "scope": [
+                "constant.language"
+            ], "settings": {
+                "foreground": "#53a5e9"
+            }
+        },
+        {
+            "scope": [
                 "string.quoted",
                 "punctuation.definition.string",
-                "keyword.operator.prefix.minus",
             ],
             "settings": {
                 "foreground": "#CE9178",
@@ -156,7 +175,7 @@
             ],
             "settings": {
                 "foreground": "#B3DDF5",
-                },
+            },
         },
         {
             "scope": [
@@ -166,7 +185,7 @@
             ],
             "settings": {
                 "foreground": "#8BBBC2",
-                },
+            },
         },
         {
             "scope": [
@@ -175,7 +194,7 @@
             ],
             "settings": {
                 "foreground": "#9099A7",
-                },
+            },
         },
         {
             "scope": [
@@ -203,7 +222,7 @@
             ],
             "settings": {
                 "foreground": "#AA2A2A",
-                },
+            },
         },
         // Types
         {
@@ -213,7 +232,7 @@
                 "keyword.type",
             ],
             "settings": {
-                "foreground": "#6B95C5",
+                "foreground": "#569cd6",
             },
         },
         // Variables
@@ -295,8 +314,7 @@
             "scope": [
                 "keyword.other.preprocessor.extension",
             ],
-            "settings": {
-                },
+            "settings": {},
         },
         {
             "scope": [
@@ -383,7 +401,7 @@
             ],
             "settings": {
                 "foreground": "#928374",
-                },
+            },
         },
         {
             "name": "Markdown link",
@@ -392,7 +410,7 @@
             ],
             "settings": {
                 "foreground": "#d3869b",
-                },
+            },
         },
         {
             "name": "Markdown link text",
@@ -420,7 +438,7 @@
             ],
             "settings": {
                 "foreground": "#928374",
-                },
+            },
         },
         {
             "name": "Markdown separator delimiter",

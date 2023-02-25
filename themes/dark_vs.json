@@ -2,7 +2,7 @@
     "$schema": "vscode://schemas/color-theme",
     // "name": "Dark (Visual Studio)",
     // "include": "./dark_defaults.json",
-    "include": "./black-lambda.json",
+    // "include": "./black-lambda.json",
     "tokenColors": [
         {
             "scope": [
@@ -60,7 +60,7 @@
         {
             "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#569cd6"
+                "foreground": "#CC524B"
             }
         },
         {
@@ -169,7 +169,7 @@
         {
             "scope": "meta.preprocessor",
             "settings": {
-                "foreground": "#569cd6"
+                "foreground": "#CC524B"
             }
         },
         {
@@ -193,25 +193,25 @@
         {
             "scope": "meta.diff.header",
             "settings": {
-                "foreground": "#569cd6"
+                "foreground": "#CC524B"
             }
         },
         {
             "scope": "storage",
             "settings": {
-                "foreground": "#569cd6"
+                "foreground": "#CC524B"
             }
         },
         {
             "scope": "storage.type",
             "settings": {
-                "foreground": "#569cd6"
+                "foreground": "#CC524B"
             }
         },
         {
             "scope": "storage.modifier",
             "settings": {
-                "foreground": "#569cd6"
+                "foreground": "#CC524B"
             }
         },
         {
@@ -246,7 +246,7 @@
                 "punctuation.section.embedded"
             ],
             "settings": {
-                "foreground": "#569cd6"
+                "foreground": "#c586c0"
             }
         },
         {
@@ -274,21 +274,21 @@
         {
             "scope": "keyword",
             "settings": {
-                "foreground": "#569cd6"
+                "foreground": "#CC524B"
             }
         },
         {
             "scope": "keyword.control",
             "settings": {
-                "foreground": "#569cd6"
+                "foreground": "#CC524B"
             }
         },
-        // {
-        //     "scope": "keyword.operator",
-        //     "settings": {
-        //         "foreground": "#d4d4d4"
-        //     }
-        // },
+        {
+            "scope": "keyword.operator",
+            "settings": {
+                "foreground": "#d4d4d4"
+            }
+        },
         {
             "scope": [
                 "keyword.operator.new",
@@ -299,7 +299,7 @@
                 "keyword.operator.logical.python"
             ],
             "settings": {
-                "foreground": "#569cd6"
+                "foreground": "#CC524B"
             }
         },
         {
@@ -314,7 +314,7 @@
                 "punctuation.section.embedded.end.php"
             ],
             "settings": {
-                "foreground": "#569cd6"
+                "foreground": "#CC524B"
             }
         },
         {
@@ -344,7 +344,7 @@
             "name": "this.self",
             "scope": "variable.language",
             "settings": {
-                "foreground": "#569cd6"
+                "foreground": "#CC524B"
             }
         }
     ]
