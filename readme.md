@@ -4,11 +4,11 @@ __Lambda Black__ is a VS Code color theme optimised for Haskell with extra synta
 ## Color schemes
 Black:
 <p align="center">
-  <img src="https://pomf2.lain.la/f/nsdu417d.png" alt="Black color scheme" style="max-width:90%;">
+  <img src="https://pomf2.lain.la/f/hir2e3kl.png" alt="Black color scheme" style="max-width:90%;">
 </p>
 Dark+:
 <p align="center">
-  <img src="https://pomf2.lain.la/f/lrn6c94.png" alt="Dark+ color scheme" style="max-width:90%;">
+  <img src="https://pomf2.lain.la/f/4z950u8h.png" alt="Dark+ color scheme" style="max-width:90%;">
 </p>
 
 ## Features
@@ -19,7 +19,6 @@ Lambda Black supports all TextMate scopes provided by the [__Language Haskell__]
   * distinguish different uses of `@`: type application, record syntax or infix operator,
   * special highlighting for record fields,
   * highlights MagicHash and OverloadedLabels,
-  * underlines recognised GHC language extensions.
 
 # Installation
 Install the theme from the VS Code marketplace [here](https://marketplace.visualstudio.com/items?itemName=janw4ld.lambda-black).  

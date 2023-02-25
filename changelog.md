@@ -1,6 +1,10 @@
 # Changelog
 
-## [0.2.0 - Feb 23rd, 2023]
+## [0.2.1 - Feb 23rd, 2023]
+
+- Removed junk from the vsce package.
+
+- ## [0.2.0 - Feb 23rd, 2023]
 
 - Added an extra color scheme based on Dark+ V2.
 
