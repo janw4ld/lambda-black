@@ -75,6 +75,7 @@
             "scope": [
                 "keyword.operator",
                 "meta.delimiter",
+                "keyword.operator.logical.python"
             ],
             "settings": {
                 "foreground": "#A3D349",
@@ -105,7 +106,8 @@
         {
             "scope": [
                 "constant.language"
-            ], "settings": {
+            ],
+            "settings": {
                 "foreground": "#53a5e9"
             }
         },

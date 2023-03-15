@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.2.3 - Mar 15th, 2023]
+
+- Colored python's logical words the same as infix operators.
+
 ## [0.2.2 - Mar 14th, 2023]
 
 - Stop pylance from overriding 'self.' color.
