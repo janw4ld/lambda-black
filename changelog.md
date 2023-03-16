@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.2.4 - Mar 16th, 2023]
+
+- Grouped all scopes with common settings together.
+
 ## [0.2.3 - Mar 15th, 2023]
 
 - Colored python's logical words the same as infix operators.
