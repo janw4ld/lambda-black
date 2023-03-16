@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.6
+
+- Switched around infix operator and type parameter colors.
+
 ## v0.2.5
 
 - Reduced vsix package size.

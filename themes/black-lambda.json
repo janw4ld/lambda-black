@@ -34,7 +34,6 @@
                 "meta.embedded",
                 "source.groovy.embedded",
                 "meta.template.expression",
-                "keyword.operator",
                 "storage.modifier.import.java",
                 "variable.language.wildcard.java",
                 "storage.modifier.package.java",
@@ -75,7 +74,6 @@
         },
         {
             "scope": [
-                "comment",
                 "punctuation.definition.quote.begin.markdown"
             ],
             "settings": {
@@ -89,7 +87,6 @@
                 "meta.preprocessor.numeric",
                 "keyword.other.unit",
                 "constant.sha.git-rebase",
-                "constant.numeric",
                 "keyword.operator.prefix.minus"
             ],
             "settings": {
@@ -107,12 +104,9 @@
         {
             "scope": [
                 "entity.name.tag",
-                "meta.preprocessor",
                 "meta.diff.header",
                 "storage",
-                "storage.type",
                 "storage.modifier",
-                "keyword",
                 "keyword.operator.new",
                 "keyword.operator.expression",
                 "keyword.operator.cast",
@@ -149,7 +143,6 @@
         },
         {
             "scope": [
-                "entity.other.attribute-name",
                 "meta.structure.dictionary.key.python",
                 "support.type.vendored.property-name",
                 "support.type.property-name",
@@ -264,7 +257,6 @@
             "scope": [
                 "punctuation.definition.template-expression.begin",
                 "punctuation.definition.template-expression.end",
-                "punctuation.section.embedded",
                 "keyword.control"
             ],
             "settings": {
@@ -348,15 +340,6 @@
         },
         {
             "scope": [
-                "keyword.operator",
-                "keyword.operator.logical.python"
-            ],
-            "settings": {
-                "foreground": "#a3d349"
-            }
-        },
-        {
-            "scope": [
                 "constant",
                 "keyword.operator.infix.tight.at",
                 "variable.other.member",
@@ -408,8 +391,7 @@
                 "keyword.operator.pipe",
                 "keyword.operator.double-dot",
                 "keyword.operator.lambda",
-                "keyword.operator.prefix",
-                "punctuation.backtick"
+                "keyword.operator.prefix"
             ],
             "settings": {
                 "foreground": "#cc524b",
@@ -471,14 +453,23 @@
         },
         {
             "scope": [
+                "meta.function.type-declaration",
+            ],
+            "settings": {
+                "foreground": "#a3d349"
+            }
+        },
+        {
+            "scope": [
                 "entity.name",
                 "entity.other.attribute-name",
-                "meta.function.type-declaration",
                 "meta.other.unknown",
-                "punctuation.backtick",
                 "punctuation.decorator",
                 "keyword.operator.promotion",
-                "keyword.operator.function.infix"
+                "keyword.operator",
+                "keyword.operator.logical.python",
+                "keyword.operator.function.infix",
+                "punctuation.backtick"
             ],
             "settings": {
                 "foreground": "#96b946"
