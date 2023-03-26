@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.7
+
+- Converted theme to standard JSON, and added build instructions to README.
+
 ## v0.2.6
 
 - Switched around infix operator and type parameter colors.

@@ -26,7 +26,7 @@
         "tab.activeBorder": "#0076bf",
         "tab.activeBorderTop": "#0076bf",
         "tab.border": "#000000",
-        "tab.inactiveBackground": "#44444494",
+        "tab.inactiveBackground": "#44444494"
     },
     "tokenColors": [
         {
@@ -453,7 +453,7 @@
         },
         {
             "scope": [
-                "meta.function.type-declaration",
+                "meta.function.type-declaration"
             ],
             "settings": {
                 "foreground": "#a3d349"

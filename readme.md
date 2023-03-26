@@ -27,7 +27,26 @@ You can get Lambda Black on:
   - [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=janw4ld.lambda-black)
   - [Open-VSX Registry](https://open-vsx.org/extension/janw4ld/lambda-black)
 
-~~Alternatively, you can clone this repo into your VS Code extensions directory (usually $HOME/.vscode/extensions/), then restart VS Code.~~ Seems to be broken in the latest update (1.76.1).
+Or install it from source:
+
+1. Install dependencies:
+    - [git](https://git-scm.com/downloads)
+    - [npm](https://www.npmjs.com/get-npm), or pnpm or yarn  
+    - and only on Linux, [libsecret](https://pkgs.org/download/libsecret)
+1. Clone the repo, build and install the extension:
+
+    ```bash
+    git clone --depth 1 git@github.com:janw4ld/lambda-black.git && {
+      cd lambda-black
+      
+      npm install --save-dev @vscode/vsce
+      npm exec vsce package
+
+      code --install-extension lambda-black-*.vsix
+    }
+    ```
+
+~~Alternatively, you can clone this repo into your VS Code extensions directory (usually $HOME/.vscode/extensions/), then restart VS Code.~~ Seems broken as of 1.76.1.
 
 # Customisation
 To change how something is highlighted, proceed as follows:
