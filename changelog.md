@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.2.8
+
+- Color `pipe.haskell` (the guard symbol) the same as `if` and `case` expressions.
+- Accessibility: add transparency to `editor.inactiveSelectionBackground`.
+
 ## v0.2.7
 
 - Converted theme to standard JSON, and added build instructions to README.

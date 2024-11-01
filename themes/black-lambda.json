@@ -257,7 +257,8 @@
             "scope": [
                 "punctuation.definition.template-expression.begin",
                 "punctuation.definition.template-expression.end",
-                "keyword.control"
+                "keyword.control",
+                "keyword.operator.pipe.haskell"
             ],
             "settings": {
                 "foreground": "#c586c0"
