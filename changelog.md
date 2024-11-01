@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.2.10
+
+- Fix pylance semantic tokens reverting `constant` colors to `variable`.
+
+## v0.2.9
+
+- Update screenshots.
+
 ## v0.2.8
 
 - Color `pipe.haskell` (the guard symbol) the same as `if` and `case` expressions.
