@@ -3,6 +3,9 @@
 > [!IMPORTANT]
 > I use neovim now! + I'm only releasing new updates to Open-VSX.
 
+> [!NOTE]
+> HLS now implements [semantic token highlights](https://github.com/haskell/haskell-language-server/pull/3892), these aren't supported by this theme, at least not yet.
+
 __Lambda Black__ is a VS Code color theme optimised for Haskell with extra syntax colors for more language scopes. It's based on [Groovy Lambda](https://marketplace.visualstudio.com/items?itemName=sheaf.groovylambda) but is very ungrooved and doesn't break languages other than Haskell, but actually improves them.
 
 ## Color schemes
