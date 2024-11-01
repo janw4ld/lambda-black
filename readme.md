@@ -1,4 +1,7 @@
-# [Lambda Black](https://marketplace.visualstudio.com/items?itemName=janw4ld.lambda-black)
+# [Lambda Black](https://open-vsx.org/extension/janw4ld/lambda-black)
+
+> [!IMPORTANT]
+> I use neovim now! + I'm only releasing new updates to Open-VSX.
 
 __Lambda Black__ is a VS Code color theme optimised for Haskell with extra syntax colors for more language scopes. It's based on [Groovy Lambda](https://marketplace.visualstudio.com/items?itemName=sheaf.groovylambda) but is very ungrooved and doesn't break languages other than Haskell, but actually improves them.
 
@@ -29,21 +32,28 @@ You can get Lambda Black on:
 
 Or install it from source:
 
+## with nix
+
+```bash
+nix build github:janw4ld/lambda-black &&
+code --install-extension result/lambda-black-*.vsix
+```
+
+## without nix
+
 1. Install dependencies:
     - [git](https://git-scm.com/downloads)
-    - [npm](https://www.npmjs.com/get-npm), or pnpm or yarn  
+    - [npm](https://www.npmjs.com/get-npm), or pnpm or yarn
     - and only on Linux, [libsecret](https://pkgs.org/download/libsecret)
+
 1. Clone the repo, build and install the extension:
 
     ```bash
-    git clone --depth 1 git@github.com:janw4ld/lambda-black.git && {
-      cd lambda-black
-      
-      npm install --save-dev @vscode/vsce
-      npm exec vsce package
-
-      code --install-extension lambda-black-*.vsix
-    }
+    git clone --depth 1 git@github.com:janw4ld/lambda-black.git &&
+      cd lambda-black && ({
+        npx @vscode/vsce package
+        code --install-extension lambda-black-*.vsix
+    })
     ```
 
 ~~Alternatively, you can clone this repo into your VS Code extensions directory (usually $HOME/.vscode/extensions/), then restart VS Code.~~ Seems broken as of 1.76.1.
