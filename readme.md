@@ -8,11 +8,11 @@ __Lambda Black__ is a VS Code color theme optimised for Haskell with extra synta
 ## Color schemes
 Black:
 <p align="center">
-  <img src="https://pomf2.lain.la/f/e4es7p8s.png" alt="Black color scheme" style="max-width:90%;">
+  <img src="https://raw.githubusercontent.com/janw4ld/lambda-black/main/img/black-screenshot.png" alt="Black color scheme" style="max-width:90%;">
 </p>
 Dark+:
 <p align="center">
-  <img src="https://pomf2.lain.la/f/0atm6yx.png" alt="Dark+ color scheme" style="max-width:90%;">
+  <img src="https://raw.githubusercontent.com/janw4ld/lambda-black/main/img/dark-screenshot.png" alt="Dark+ color scheme" style="max-width:90%;">
 </p>
 
 ## Features
