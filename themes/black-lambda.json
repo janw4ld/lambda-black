@@ -7,7 +7,7 @@
         "activityBarBadge.background": "#007acc",
         "editor.background": "#000000",
         "editor.foreground": "#d4d4d4",
-        "editor.inactiveSelectionBackground": "#3a3d41",
+        "editor.inactiveSelectionBackground": "#3a3d41a1",
         "editor.selectionHighlightBackground": "#add6ff26",
         "editorGroupHeader.tabsBackground": "#000000",
         "editorIndentGuide.activeBackground": "#707070",
