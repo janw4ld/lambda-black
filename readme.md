@@ -39,7 +39,7 @@ Or install it from source:
 
 ```bash
 nix build github:janw4ld/lambda-black &&
-code --install-extension result/lambda-black-*.vsix
+  code --install-extension result/lambda-black-*.vsix
 ```
 
 ## without nix
@@ -56,7 +56,7 @@ code --install-extension result/lambda-black-*.vsix
       cd lambda-black && ({
         npx @vscode/vsce package
         code --install-extension lambda-black-*.vsix
-    })
+      })
     ```
 
 ~~Alternatively, you can clone this repo into your VS Code extensions directory (usually $HOME/.vscode/extensions/), then restart VS Code.~~ Seems broken as of 1.76.1.
