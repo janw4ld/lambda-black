@@ -5,6 +5,7 @@
 - Update methods' color to match functions. Fixes groovy functions, since
   they're all methods on the global `Script` object.
 - Color Groovy's modules the same as other languages.
+- Add support for `variable.other.constant`. Fixes stuff in Ruby.
 
 ## v0.2.12
 

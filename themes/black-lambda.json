@@ -349,7 +349,8 @@
                 "meta.record punctuation.brace",
                 "keyword.operator.infix.tight.at",
                 "keyword.operator.colon",
-                "variable.other.enummember"
+                "variable.other.enummember",
+                "variable.other.constant"
             ],
             "settings": {
                 "foreground": "#cca143"
