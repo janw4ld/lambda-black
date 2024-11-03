@@ -220,7 +220,7 @@
                 "storage.type",
                 "support.type",
                 "keyword.type",
-                "entity.name.type",
+                "entity.name.type"
             ],
             "settings": {
                 "foreground": "#569cd6"
@@ -343,10 +343,10 @@
         {
             "scope": [
                 "constant",
-                "keyword.operator.infix.tight.at",
-                "variable.other.member",
                 "meta.record punctuation.brace",
+                "keyword.operator.infix.tight.at",
                 "keyword.operator.colon",
+                "variable.other.member",
                 "variable.other.enummember"
             ],
             "settings": {
@@ -733,14 +733,6 @@
             ],
             "settings": {
                 "foreground": "#b267e6"
-            }
-        },
-        {
-            "scope": [
-                "entity.name.function.member"
-            ],
-            "settings": {
-                "foreground": "#c586c0"
             }
         }
     ],
