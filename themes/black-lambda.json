@@ -42,6 +42,7 @@
                 "meta.object-literal.key",
                 "variable.other.member",
                 "variable.other.property",
+                "meta.definition.method.groovy",
                 "source"
             ],
             "settings": {
