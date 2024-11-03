@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.2.14
+
+- Color golang modules and packages the same as other languages' modules.
+- Add sane semantic colors for dockerfile.
+
 ## v0.2.13
 
 - Update methods' color to match functions. Fixes groovy functions, since
