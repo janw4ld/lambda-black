@@ -391,6 +391,7 @@
                 "keyword.operator.big-arrow",
                 "keyword.operator.period",
                 "keyword.operator.eq",
+                "keyword.operator.assignment",
                 "keyword.operator.pipe",
                 "keyword.operator.double-dot",
                 "keyword.operator.lambda",

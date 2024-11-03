@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.2.12
+
+- Fix: make `assignment` and `eq` operators match in color.
+- Fix: don't color struct/class members as constants.
+
 ## v0.2.11
 
 - Set color `variable.other.enummember` the same as constants.
