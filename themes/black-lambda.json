@@ -260,7 +260,8 @@
                 "punctuation.definition.template-expression.begin",
                 "punctuation.definition.template-expression.end",
                 "keyword.control",
-                "keyword.operator.pipe.haskell"
+                "keyword.operator.pipe.haskell",
+                "entity.name.function.member.agda"
             ],
             "settings": {
                 "foreground": "#c586c0"
