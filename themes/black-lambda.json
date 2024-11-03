@@ -41,6 +41,7 @@
                 "entity.name.variable",
                 "meta.object-literal.key",
                 "variable.other.member",
+                "variable.other.property",
                 "source"
             ],
             "settings": {
@@ -747,6 +748,7 @@
         "stringLiteral": "#ce9178",
         "customLiteral": "#dcdcaa",
         "numberLiteral": "#b5cea8",
-        "variable.readonly": "#CCA143"
+        "variable.readonly": "#CCA143",
+        "variable.property": "#d4d4d4"
     }
 }
