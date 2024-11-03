@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.11
+
+- Set color `variable.other.enummember` the same as constants.
+
 ## v0.2.10
 
 - Fix pylance semantic tokens reverting `constant` colors to `variable`.
