@@ -499,7 +499,9 @@
                 "support.type.object.module",
                 "entity.name.type.module",
                 "entity.name.type.class.module",
-                "keyword.control.module"
+                "keyword.control.module",
+                "entity.name.import.go",
+                "entity.name.type.package"
             ],
             "settings": {
                 "foreground": "#73a36c"
