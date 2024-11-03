@@ -152,7 +152,8 @@
                 "variable.scss",
                 "variable.other.less",
                 "source.coffee.embedded",
-                "support.function.git-rebase"
+                "support.function.git-rebase",
+                "entity.name.tag.yaml"
             ],
             "settings": {
                 "foreground": "#9cdcfe"
