@@ -7,6 +7,8 @@
 - Color Groovy's modules the same as other languages.
 - Add support for `variable.other.constant`. Fixes stuff in Ruby.
 - Color `method` and `method-call` the same as `definition.method`
+- Color all `*.readonly` semantic tokens as constant.
+- Color YAML keys the same as JSON properties.
 
 ## v0.2.12
 
