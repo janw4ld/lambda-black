@@ -4,6 +4,8 @@
 
 - Color golang modules and packages the same as other languages' modules.
 - Add sane semantic colors for dockerfile.
+- Fix semantic highlights not distinguishing constant builtins (like `true` and
+  `None`) from other constants.
 
 ## v0.2.13
 

@@ -747,6 +747,7 @@
         "customLiteral": "#dcdcaa",
         "numberLiteral": "#b5cea8",
         "*.readonly": "#cca143",
+        "*.readonly.builtin": "#53a5e9",
         "variable.property": "#d4d4d4",
         "parameter:dockerfile": "#d4d4d4",
         "property:dockerfile": "#7daea3"
