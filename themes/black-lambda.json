@@ -484,6 +484,7 @@
         {
             "scope": [
                 "meta.import",
+                "storage.modifier.import.groovy",
                 "entity.name.namespace",
                 "meta.declaration.module",
                 "support.module",

@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.2.13
+
+- Update methods' color to match functions. Fixes groovy functions, since
+  they're all methods on the global `Script` object.
+- Color Groovy's modules the same as other languages.
+
 ## v0.2.12
 
 - Fix: make `assignment` and `eq` operators match in color.
