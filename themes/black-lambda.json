@@ -42,7 +42,6 @@
                 "meta.object-literal.key",
                 "variable.other.member",
                 "variable.other.property",
-                "meta.definition.method.groovy",
                 "source"
             ],
             "settings": {
@@ -283,8 +282,9 @@
                 "meta.bracket",
                 "meta.function-call",
                 "entity.name.function",
-                "meta.method.groovy",
-                "meta.method-call.groovy"
+                "meta.definition.method",
+                "meta.method",
+                "meta.method-call"
             ],
             "settings": {
                 "foreground": "#dcdcaa"
@@ -502,16 +502,6 @@
             ],
             "settings": {
                 "foreground": "#73a36c"
-            }
-        },
-        {
-            "scope": [
-                "meta.definition.method",
-                "meta.method",
-                "meta.method-call"
-            ],
-            "settings": {
-                "foreground": "#96ae67"
             }
         },
         {
