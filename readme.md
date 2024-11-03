@@ -28,17 +28,18 @@ Lambda Black supports all TextMate scopes provided by the [__Language Haskell__]
   - highlights MagicHash and OverloadedLabels,
 
 # Installation
-You can get Lambda Black on:
+You can get Lambda Black from:
 
-  - [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=janw4ld.lambda-black)
+  - [GitHub Releases](https://github.com/janw4ld/lambda-black/releases/latest), install with `code --install-extension <file>.vsix`
   - [Open-VSX Registry](https://open-vsx.org/extension/janw4ld/lambda-black)
+  - [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=janw4ld.lambda-black), not updated since v0.2.7
 
 Or install it from source:
 
 ## with nix
 
 ```bash
-nix build github:janw4ld/lambda-black &&
+nix build github:janw4ld/lambda-black --refresh &&
   code --install-extension result/lambda-black-*.vsix
 ```
 
