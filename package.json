@@ -2,6 +2,13 @@
 	"name": "lambda-black",
 	"displayName": "Lambda Black",
 	"description": "Default dark+ theme with support for Haskell syntax colors and a black background variant.",
+    "keywords": [
+        "haskell",
+        "black",
+        "dark",
+        "syntax highlighting",
+        "theme"
+    ],
 	"icon": "img/icon.png",
 	"publisher": "janw4ld",
 	"version": "0.2.10",
