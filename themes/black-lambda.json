@@ -261,6 +261,8 @@
                 "punctuation.definition.template-expression.begin",
                 "punctuation.definition.template-expression.end",
                 "keyword.control",
+                "keyword.import",
+                "keyword.other.import",
                 "keyword.operator.pipe.haskell",
                 "entity.name.function.member.agda"
             ],
