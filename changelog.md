@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.15
+
+- Color Haskell record wildcards to match scope modifiers.
+
 ## v0.2.14
 
 - Color golang modules and packages the same as other languages' modules.

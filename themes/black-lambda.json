@@ -116,6 +116,7 @@
                 "keyword.operator.instanceof",
                 "punctuation.section.embedded.begin.php",
                 "punctuation.section.embedded.end.php",
+                "variable.other.member.wildcard.haskell",
                 "variable.language",
                 "keyword",
                 "modifier"
