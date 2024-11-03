@@ -744,7 +744,7 @@
         "stringLiteral": "#ce9178",
         "customLiteral": "#dcdcaa",
         "numberLiteral": "#b5cea8",
-        "variable.readonly": "#CCA143",
+        "*.readonly": "#cca143",
         "variable.property": "#d4d4d4"
     }
 }
