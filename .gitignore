@@ -1,0 +1,8 @@
+result
+img/screenshot.hs
+*.vsix
+.vscode
+*.code-workspace
+.vsixmanifest
+node_modules
+pnpm-lock.yaml
