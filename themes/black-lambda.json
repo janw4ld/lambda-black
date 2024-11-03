@@ -347,7 +347,6 @@
                 "meta.record punctuation.brace",
                 "keyword.operator.infix.tight.at",
                 "keyword.operator.colon",
-                "variable.other.member",
                 "variable.other.enummember"
             ],
             "settings": {
