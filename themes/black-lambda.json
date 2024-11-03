@@ -33,7 +33,6 @@
         {
             "scope": [
                 "meta.embedded",
-                "source.groovy.embedded",
                 "meta.template.expression",
                 "storage.modifier.import.java",
                 "variable.language.wildcard.java",
@@ -41,6 +40,7 @@
                 "meta.definition.variable.name",
                 "entity.name.variable",
                 "meta.object-literal.key",
+                "variable.other.member",
                 "source"
             ],
             "settings": {
@@ -278,7 +278,9 @@
                 "meta.delimiter",
                 "meta.bracket",
                 "meta.function-call",
-                "entity.name.function"
+                "entity.name.function",
+                "meta.method",
+                "meta.method-call"
             ],
             "settings": {
                 "foreground": "#dcdcaa"
