@@ -6,6 +6,7 @@
   they're all methods on the global `Script` object.
 - Color Groovy's modules the same as other languages.
 - Add support for `variable.other.constant`. Fixes stuff in Ruby.
+- Color `method` and `method-call` the same as `definition.method`
 
 ## v0.2.12
 

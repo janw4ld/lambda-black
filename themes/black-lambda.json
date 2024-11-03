@@ -280,8 +280,8 @@
                 "meta.bracket",
                 "meta.function-call",
                 "entity.name.function",
-                "meta.method",
-                "meta.method-call"
+                "meta.method.groovy",
+                "meta.method-call.groovy"
             ],
             "settings": {
                 "foreground": "#dcdcaa"
@@ -503,7 +503,9 @@
         },
         {
             "scope": [
-                "meta.definition.method"
+                "meta.definition.method",
+                "meta.method",
+                "meta.method-call"
             ],
             "settings": {
                 "foreground": "#96ae67"
