@@ -42,6 +42,7 @@
                 "meta.object-literal.key",
                 "variable.other.member",
                 "variable.other.property",
+                "variable.parameter.name.nix",
                 "source"
             ],
             "settings": {
@@ -475,7 +476,6 @@
         {
             "scope": [
                 "entity.name",
-                "entity.other.attribute-name",
                 "meta.other.unknown",
                 "punctuation.decorator",
                 "keyword.operator.promotion",
@@ -486,6 +486,15 @@
             ],
             "settings": {
                 "foreground": "#96b946"
+            }
+        },
+        {
+            "scope": [
+                "entity.other.attribute-name",
+                "entity.other.attribute-name.multipart.nix"
+            ],
+            "settings": {
+                "foreground": "#87a37d"
             }
         },
         {

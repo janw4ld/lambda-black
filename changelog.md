@@ -3,6 +3,7 @@
 ## v0.2.15
 
 - Color Haskell record wildcards to match scope modifiers.
+- Replace nix's abominable colors.
 
 ## v0.2.14
 
