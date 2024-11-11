@@ -627,7 +627,8 @@
                 "string.other.link.description.markdown",
                 "keyword.control.preamble.latex",
                 "variable.language.documentroot.xml",
-                "meta.tag.sgml.doctype.xml"
+                "meta.tag.sgml.doctype.xml",
+                "string.unquoted.path"
             ],
             "settings": {
                 "foreground": "#d3869b"
