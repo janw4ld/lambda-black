@@ -4,6 +4,7 @@
 
 - Color Haskell record wildcards to match scope modifiers.
 - Replace nix's abominable colors.
+- Initial support for Hashicorp HCL & Terraform.
 
 ## v0.2.14
 

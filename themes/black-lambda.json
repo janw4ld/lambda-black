@@ -163,15 +163,6 @@
         },
         {
             "scope": [
-                "invalid",
-                "token.error-token"
-            ],
-            "settings": {
-                "foreground": "#f44747"
-            }
-        },
-        {
-            "scope": [
                 "markup.underline"
             ],
             "settings": {
@@ -253,7 +244,8 @@
                 "constant.character.character-class.regexp",
                 "constant.other.character-class.set.regexp",
                 "constant.other.character-class.regexp",
-                "constant.character.set.regexp"
+                "constant.character.set.regexp",
+                "variable.other.readwrite"
             ],
             "settings": {
                 "foreground": "#d16969"
@@ -459,10 +451,11 @@
         },
         {
             "scope": [
-                "invalid"
+                "invalid",
+                "token.error-token"
             ],
             "settings": {
-                "foreground": "#aa2a2a"
+                "foreground": "#f44747"
             }
         },
         {
@@ -491,7 +484,9 @@
         {
             "scope": [
                 "entity.other.attribute-name",
-                "entity.other.attribute-name.multipart.nix"
+                "entity.other.attribute-name.multipart.nix",
+                "variable.other.readwrite.terraform",
+                "variable.other.readwrite.hcl"
             ],
             "settings": {
                 "foreground": "#87a37d"
@@ -756,10 +751,12 @@
         "stringLiteral": "#ce9178",
         "customLiteral": "#dcdcaa",
         "numberLiteral": "#b5cea8",
-        "*.readonly": "#cca143",
-        "*.readonly.builtin": "#53a5e9",
         "variable.property": "#d4d4d4",
         "parameter:dockerfile": "#d4d4d4",
-        "property:dockerfile": "#7daea3"
+        "property:dockerfile": "#7daea3",
+        "*.readonly": "#cca143",
+        "*.readonly.builtin": "#53a5e9",
+        "hcl-bool": "#53a5e9",
+        "hcl-referenceStep": "#87a37d"
     }
 }
