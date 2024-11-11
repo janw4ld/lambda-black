@@ -157,14 +157,11 @@
         {
             "scope": [
                 "meta.structure.dictionary.key.python",
-                "support.type.vendored.property-name",
-                "support.type.property-name",
                 "variable.css",
                 "variable.scss",
                 "variable.other.less",
                 "source.coffee.embedded",
-                "support.function.git-rebase",
-                "entity.name.tag.yaml"
+                "support.function.git-rebase"
             ],
             "settings": {
                 "foreground": "#9cdcfe"
@@ -494,7 +491,10 @@
                 "entity.other.attribute-name",
                 "entity.other.attribute-name.multipart.nix",
                 "variable.other.readwrite.terraform",
-                "variable.other.readwrite.hcl"
+                "variable.other.readwrite.hcl",
+                "support.type.vendored.property-name",
+                "support.type.property-name",
+                "entity.name.tag.yaml"
             ],
             "settings": {
                 "foreground": "#87a37d"
