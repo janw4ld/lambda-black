@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.16
+
+- Set the "custom titlebar" color to black.
+
 ## v0.2.15
 
 - Color Haskell record wildcards to match scope modifiers.

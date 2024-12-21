@@ -27,7 +27,8 @@
         "tab.activeBorder": "#0076bf",
         "tab.activeBorderTop": "#0076bf",
         "tab.border": "#000000",
-        "tab.inactiveBackground": "#44444494"
+        "tab.inactiveBackground": "#44444494",
+        "titleBar.activeBackground": "#000000"
     },
     "tokenColors": [
         {
