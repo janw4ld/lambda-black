@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.17
+
+- Readme and metadata updates for VSMarketplace republication.
+
 ## v0.2.16
 
 - Set the "custom titlebar" color to black.

@@ -1,17 +1,17 @@
 {
     "name": "lambda-black",
     "displayName": "Lambda Black",
-    "description": "Default dark+ theme with support for Haskell syntax colors and a black background variant.",
+    "description": "Default dark+ theme optimised for Haskell, groovy, C, python, nix & hcl syntax highlighting with a black background variant.",
     "keywords": [
         "haskell",
+        "terraform",
+        "groovy",
         "black",
-        "dark",
-        "syntax highlighting",
-        "theme"
+        "syntax highlighting"
     ],
     "icon": "img/icon.png",
     "publisher": "janw4ld",
-    "version": "0.2.16",
+    "version": "0.2.17",
     "homepage": "https://github.com/janw4ld/lambda-black",
     "repository": {
         "type": "git",
