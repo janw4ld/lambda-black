@@ -1,4 +1,4 @@
-# [Lambda Black](https://marketplace.visualstudio.com/items?itemName=sheaf.groovylambda)
+# [Lambda Black](https://marketplace.visualstudio.com/items?itemName=janw4ld.lambda-black)
 
 > [!NOTE]
 > HLS now implements [semantic token highlights](https://github.com/haskell/haskell-language-server/pulld/3892) as an off by default LS-extension, they aren't supported by this theme, at least not yet.
