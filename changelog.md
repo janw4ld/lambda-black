@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.19
+
+- VSMarketplace metadata mismatch fixes.
+
 ## v0.2.18
 
 - Improve terraform and hcl consistency with other languages.
