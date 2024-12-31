@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.18
+
+- Improve terraform and hcl consistency with other languages.
+
 ## v0.2.17
 
 - Readme and metadata updates for VSMarketplace republication.

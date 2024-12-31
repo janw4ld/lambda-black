@@ -265,7 +265,9 @@
                 "keyword.import",
                 "keyword.other.import",
                 "keyword.operator.pipe.haskell",
-                "entity.name.function.member.agda"
+                "entity.name.function.member.agda",
+                "meta.block.hcl",
+                "entity.name.type.hcl"
             ],
             "settings": {
                 "foreground": "#c586c0"
@@ -767,6 +769,9 @@
         "*.readonly": "#cca143",
         "*.readonly.builtin": "#53a5e9",
         "hcl-bool": "#53a5e9",
-        "hcl-referenceStep": "#87a37d"
+        "hcl-referenceStep": "#87a37d",
+        "hcl-blockType": "#c586c0",
+        "hcl-typePrimitive": "#4ec9b0",
+        "hcl-typeComplex": "#569cd6"
     }
 }
